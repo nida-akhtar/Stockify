@@ -1,6 +1,6 @@
 # Stockify 📈
 
-Stockify is a Python-based stock market analysis tool designed to fetch, process, and visualize financial data. This project demonstrates the use of data science libraries to track market trends and provide actionable insights through automated data pipelines.
+Stockify is a Python-based stock market analysis tool designed to fetch, process, and visualize financial data and predict the next day price. This project demonstrates the use of data science libraries to track market trends and provide actionable insights through automated data pipelines.
 
 ## 🚀 Features
 * **Real-time Data Retrieval:** Fetches historical and current stock data using financial APIs.
