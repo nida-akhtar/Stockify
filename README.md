@@ -23,3 +23,20 @@ Stockify is a Python-based stock market analysis tool designed to fetch, process
 1. Clone the repository:
    ```bash
    git clone [https://github.com/nida-akhtar/Stockify.git](https://github.com/nida-akhtar/Stockify.git)
+Install dependencies:
+
+Bash
+pip install pandas numpy matplotlib yfinance
+Open StockFinal.ipynb in Jupyter Notebook or VS Code and run all cells.
+
+Developed as part of my exploration into Python-driven financial data analysis.
+
+
+---
+
+### Why this helps your application:
+* **Keywords:** It uses terms like "Data Pipelines," "Preprocessing," and "Automation"—all things backend developers care about.
+* **Readability:** Recruiters at Neurog can now understand what your code does in 10 seconds without having to scroll through 700+ lines of a `.ipynb` file.
+* **Professionalism:** It shows you know how to document your work, which is a "Strong communication" trait they asked for in the job description.
+
+**Would you like me to do a similar README for your FastAPI or VLM project to make your pinned section even stronger?**
