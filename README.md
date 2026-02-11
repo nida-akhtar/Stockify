@@ -19,16 +19,16 @@ Stockify is a Python-based stock market analysis tool designed to fetch, process
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/nida-akhtar/Stockify.git](https://github.com/nida-akhtar/Stockify.git)
-Install dependencies:
+git clone [https://github.com/nida-akhtar/Stockify.git](https://github.com/nida-akhtar/Stockify.git)
+2. Install dependencies:
 
 ```Bash
- pip install pandas numpy matplotlib yfinance
+pip install pandas numpy matplotlib yfinance
 ```
-Open StockFinal.ipynb in Jupyter Notebook or VS Code and run all cells.
+3. Open StockFinal.ipynb in Jupyter Notebook or VS Code and run all cells.
 
 
-Developed as part of my exploration into Python-driven financial data analysis.
+4. Developed as part of my exploration into Python-driven financial data analysis.
 
 
 
