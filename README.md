@@ -24,8 +24,9 @@ Install dependencies:
 
 ```Bash
  pip install pandas numpy matplotlib yfinance
+```
+Open StockFinal.ipynb in Jupyter Notebook or VS Code and run all cells.
 
-Open StockFinal.ipynb in Jupyter Notebook or VS Code and run all cells.```
 
 Developed as part of my exploration into Python-driven financial data analysis.
 
