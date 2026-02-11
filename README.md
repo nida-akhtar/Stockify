@@ -20,6 +20,7 @@ Stockify is a Python-based stock market analysis tool designed to fetch, process
 1. Clone the repository:
    ```bash
 git clone [https://github.com/nida-akhtar/Stockify.git](https://github.com/nida-akhtar/Stockify.git)
+```
 2. Install dependencies:
 
 ```Bash
